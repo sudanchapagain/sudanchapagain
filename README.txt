@@ -1,8 +1,6 @@
-<pre>A little more about me
+A little more about me
 
-Hi there! I'm a student at Tribhuvan University, and I'm into design and development. 
-  I'm enthusiastic about tech, with a strong focus on web development, applications 
-  development, and ensuring that computers are user-friendly for everyone. </pre>
+Hi there! I'm a student at Tribhuvan University, and I'm into design and development. I'm enthusiastic about tech, with a strong focus on web development, applications development, and ensuring that computers are user-friendly for everyone.
 <!--### Hi there 👋
 
 **SudanChapagain/SudanChapagain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
